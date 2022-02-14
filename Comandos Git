@@ -1,0 +1,17 @@
+>> COMANDOS GIT <<
+
+-> inicializando repositório
+$ git init
+Repositório vazio Git inicializado em  /home/giordano/Área de Trabalho/ProjetoGit/.git/
+
+$ git add Readme.md 
+$ git status
+
+$ git commit -m "Primeiro commit"
+
+$ git remote add origin https://github.com/giordanogomes/ProjetoGit.git
+$ git push -u origin main
+
+$ git push origin main 
+
+$ git branch
