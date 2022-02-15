@@ -15,3 +15,12 @@ $ git push -u origin main
 $ git push origin main 
 
 $ git branch
+
+$ git merge novo-botao 
+
+-> Atualizando alterações feitas no código
+$ git pull
+
+
+git config --global user.name "giordanogomes"
+git config --global user.email "gfgomes16@gmail.com"
